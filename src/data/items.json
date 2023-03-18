@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "EMILY",
+    "price": 938.99,
+    "imgUrl": "/emily.jpg"
+  },
+  {
+    "id": 111,
+    "name": "EMILIA",
+    "price": 849.99,
+    "imgUrl": "/kepi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ELA",
+    "price": 840.97,
+    "imgUrl": "/marie.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MAC",
+    "price": 849.99,
+    "imgUrl": "/mac.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TULIP",
+    "price": 955.89,
+    "imgUrl": "/tulip.jpg"
+  },
+  {
+    "id": 5,
+    "name": "NELLY",
+    "price": 930.55,
+    "imgUrl": "/nelly.jpg"
+  },
+  {
+    "id": 6,
+    "name": "CHLOE",
+    "price": 698.99,
+    "imgUrl": "/chloe.jpg"
+  },
+  {
+    "id": 7,
+    "name": "CLEMENT",
+    "price": 799.22,
+    "imgUrl": "/clement.jpg"
+  },
+  {
+    "id": 8,
+    "name": "COTSWOLD",
+    "price": 867.99,
+    "imgUrl": "/cotswold.jpg"
+  },
+  {
+    "id": 9,
+    "name": "UDINE",
+    "price": 959.99,
+    "imgUrl": "/udine.jpg"
+  },
+  {
+    "id": 10,
+    "name": "DUBLIN",
+    "price": 999.99,
+    "imgUrl": "/dublin.jpg"
+  },
+  {
+    "id": 11,
+    "name": "ENZO",
+    "price": 702.99,
+    "imgUrl": "/enzo.jpg"
+  },
+  {
+    "id": 12,
+    "name": "GOODWIN",
+    "price": 989.99,
+    "imgUrl": "/goodwin.jpg"
+  },
+  {
+    "id": 13,
+    "name": "KELLY",
+    "price": 797.99,
+    "imgUrl": "/kelly.jpg"
+  },
+  {
+    "id": 14,
+    "name": "KOKO",
+    "price": 860.99,
+    "imgUrl": "/koko.jpg"
+  },
+  {
+    "id": 15,
+    "name": "LLOYD",
+    "price": 870.99,
+    "imgUrl": "/lloyd.jpg"
+  },
+  {
+    "id": 16,
+    "name": "STANLEY",
+    "price": 477.99,
+    "imgUrl": "/stanley.jpg"
+  },
+  {
+    "id": 17,
+    "name": "CHAG",
+    "price": 659.99,
+    "imgUrl": "/chag.jpg"
+  },
+  {
+    "id": 18,
+    "name": "SWIFT",
+    "price": 784.99,
+    "imgUrl": "/swift.jpg"
+  },
+  {
+    "id": 15,
+    "name": "SWIVEL",
+    "price": 1100,
+    "imgUrl": "/swivel.jpg"
+  }
+]
